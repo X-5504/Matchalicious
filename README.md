@@ -1,6 +1,10 @@
 Matcha Store Application:
 - Add navbar
 - Add hero section
+- Add home page
+- Add Menu page
+- Add products page
+- Add Locations page
 - Add footer
 
 Home Page:
@@ -8,7 +12,6 @@ Home Page:
 
 Products Page:
 - Product card
-- list of products
-
-About Us:
-- Description about why us
+  - product detail
+  - add to cart
+- list of product cards
