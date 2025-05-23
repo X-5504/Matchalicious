@@ -1,17 +1,27 @@
 Matcha Store Application:
-- Add navbar
-- Add hero section
-- Add home page
-- Add Menu page
-- Add products page
-- Add Locations page
-- Add footer
+- home page
+- Menus page
+- products page
+- locations page
+- socials
 
-Home Page:
-- Buy matcha now
+Home Page
+- nav bar (navigation links, search feature, cart feature)
+- brief description of our store and products (hero section)
 
-Products Page:
-- Product card
-  - product detail
-  - add to cart
+Menus Page
+- store's specialties and price
+
+Products Page
 - list of product cards
+  - Product card
+    - product detail
+    - add to cart
+
+Locations Page
+- cafe location
+  - pin point map
+  - cafe contact
+
+Socials
+- social media links (IG, TikTok)
